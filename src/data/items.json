@@ -1,0 +1,56 @@
+ [
+    {
+        "id":0,
+        "name":"LOUIS DENVIN",
+        "price": 1099,
+        "imageUrl":"/imgs/wa6.jpg"
+    },
+    {
+        "id":1,
+        "name":"MAGBOT",
+        "price": 2500,
+        "imageUrl":"/imgs/wa1.jpg"
+    },
+    {
+        "id":2,
+        "name":"FIRE-BOLT",
+        "price": 3000,
+        "imageUrl":"/imgs/wa3.jpg"
+    },
+    {
+        "id":3,
+        "name":"CASIO",
+        "price": 4999,
+        "imageUrl":"/imgs/wa4.jpg"
+    },
+    {
+        "id":4,
+        "name":"TIMEX",
+        "price": 1599,
+        "imageUrl":"/imgs/wa5.jpg"
+    },
+    {
+        "id":5,
+        "name":"SWISSTONE",
+        "price": 2199,
+        "imageUrl":"/imgs/wa45.jpg"
+    },
+    {
+        "id":6,
+        "name":"LORENZ",
+        "price": 1999,
+        "imageUrl":"/imgs/wa7.jpg"
+    },
+    {
+        "id":7,
+        "name":"DECODE",
+        "price": 3999,
+        "imageUrl":"/imgs/wa8.jpg"
+    },
+    {
+        "id":8,
+        "name":"SYLVI",
+        "price": 2999,
+        "imageUrl":"/imgs/wa9.jpg"
+    }
+]
